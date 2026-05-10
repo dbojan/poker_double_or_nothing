@@ -1,5 +1,11 @@
 ## Poker Double or Nothing
 
+![alt text](img/s1.png)
+![alt text](img/s2.png)
+![alt text](img/s3.png)
+
+
+
 About This Game
 
 Poker Double or Nothing is game where you try to get winning combination after draw, and then double it by guessing if the next card will be high (8,9,10,J,Q,K) or low (1,2,3,4,5,6).
