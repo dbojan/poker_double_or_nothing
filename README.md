@@ -19,8 +19,6 @@ Community Graphics Packs
 
 The game supports custom community-created graphics packs, including cards and wallpapers. Many of these packs are developed by the community under LGPL or GPL licenses and are hosted on external sites; therefore, they are not distributed with the game on Steam.
 
-To find community graphics packs or more information about the source code, please visit the External Links section on the right side of this page.
-
 
 community-created graphics packs: https://github.com/dbojan/cards
 
