@@ -26,8 +26,3 @@ community-created graphics packs: https://github.com/dbojan/cards
 steam link: https://store.steampowered.com/app/4701190/
 
 
-
-
-
-2026-03-06-1
-- added save
