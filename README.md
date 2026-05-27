@@ -1,9 +1,9 @@
 ## Poker Double or Nothing
 
-![alt text](img/s1.png)
-![alt text](img/s2.png)
-![alt text](img/s3.png)
-![alt text](img/s4.png)
+![alt text](img/01.png)
+![alt text](img/02.png)
+![alt text](img/03.png)
+![alt text](img/04.png)
 
 
 
