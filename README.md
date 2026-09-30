@@ -22,6 +22,8 @@ The game supports custom community-created graphics packs, including cards and w
 
 community-created graphics packs: https://github.com/dbojan/cards
 
+[android apk](https://drive.google.com/drive/folders/1EWsR6ITved9rnKEDRB38nzaojuLmcnwY?usp=sharing) version 2026-09-29-16-04-05
+
 steam link: https://store.steampowered.com/app/4701190/
 
 github_godot_project.7z version 2026-09-29-16-04-05
