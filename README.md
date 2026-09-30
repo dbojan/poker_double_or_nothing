@@ -26,7 +26,7 @@ community-created graphics packs: https://github.com/dbojan/cards
 
 steam link: https://store.steampowered.com/app/4701190/
 
-pokerdon_source_and_addons.7z version 2026-09-29-16-04-05
+pokerdon_source_and_addons.7z version 2026-09-29-16-04-05 (click on file on the top of the screen to open link, then on the arrow pointing down, to download)
 
 Note: Steam leaderboards are currently disabled.
 
