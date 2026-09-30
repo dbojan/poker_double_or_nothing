@@ -26,7 +26,7 @@ community-created graphics packs: https://github.com/dbojan/cards
 
 steam link: https://store.steampowered.com/app/4701190/
 
-github_godot_project.7z version 2026-09-29-16-04-05
+pokerdon_source_and_addons.7z version 2026-09-29-16-04-05
 
 Note: Steam leaderboards are currently disabled.
 
