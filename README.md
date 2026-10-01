@@ -11,7 +11,7 @@ Poker Double or Nothing is game where you try to get winning combination after d
 
 Open Source & Steam Version
 
-This game is open source and published under the BSD 2-Clause license. The base source code will be available for download on our official repository starting on the day of the game's launch. Please note that this source code will not include specific Steam enhancements, such as platform-specific integrations or Steamworks SDK features.
+This game is open source and published under the BSD 2-Clause license. The base source code is available for download on our official repository. Please note that this source code will not include specific Steam enhancements, such as platform-specific integrations or Steamworks SDK features.
 
 Community Graphics Packs
 
