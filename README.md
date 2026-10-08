@@ -21,7 +21,7 @@ community-created graphics packs: https://github.com/dbojan/cards
 
 steam link: https://store.steampowered.com/app/4701190/
 
-[android apk](https://drive.google.com/drive/folders/1EWsR6ITved9rnKEDRB38nzaojuLmcnwY?usp=sharing) version 2026-10-01-15-41-15
+[android apk](https://drive.google.com/drive/folders/1EWsR6ITved9rnKEDRB38nzaojuLmcnwY?usp=sharing) version 2026-10-08-12-59-58
 
 <hr>
 
